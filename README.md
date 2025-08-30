@@ -66,7 +66,8 @@ ________________________________________
 
 •	DHCP IP configuration shown in PC0 and PC1<br>
 <img width="3199" height="1672" alt="image" src="https://github.com/user-attachments/assets/70d3da64-3073-4c37-b88d-efb944778b40" />
-<img width="3199" height="1672" alt="image" src="https://github.com/user-attachments/assets/cfbcfef3-b35f-433f-af5f-06b5ef08d3ad" />
+<img width="3199" height="1680" alt="image" src="https://github.com/user-attachments/assets/9aa242b7-0ea9-4d93-95e8-344576912364" />
+
 
 •	Router configuration screen<br>
 <img width="3199" height="1679" alt="image" src="https://github.com/user-attachments/assets/d8d28c99-c26f-438c-84ee-05b862bbc4b6" />
